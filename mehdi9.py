@@ -16,4 +16,3 @@ for i in range(1,1000):
 print(sum)
 
 
-#ta qesmat 011 didm bayd 012 ro bbinm :D
